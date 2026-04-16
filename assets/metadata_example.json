@@ -1,0 +1,26 @@
+[
+    {
+        "id": "0000",
+        "path": "./UniEditBench/images/add/animal/001.png",
+        "width": 1920,
+        "height": 1280,
+        "source_prompt": "Male lion stands in tall golden grass, surveying savanna landscape under cloudy sky.",
+        "target_prompt": "Male lion and zebra stand in tall golden grass, surveying savanna landscape under cloudy sky.",
+        "edited_prompt": "add a zebra next to the lion in the grass",
+        "edit_type": "add",
+        "edit_model": "edit_model",
+        "edit_path": "edit_image_path"
+    },
+    {
+        "id": "0001",
+        "path": "./UniEditBench/images/add/animal/002.png",
+        "width": 1920,
+        "height": 1280,
+        "source_prompt": "Elephant walks through golden grass field with distant hills under soft sunlight.",
+        "target_prompt": "Elephant and zebra walk through golden grass field with distant hills under soft sunlight.",
+        "edited_prompt": "add a zebra next to the elephant in the grass field",
+        "edit_type": "add",
+        "edit_model": "edit_model",
+        "edit_path": "edit_image_path"
+    }
+]
