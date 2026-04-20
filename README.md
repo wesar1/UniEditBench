@@ -18,10 +18,6 @@
 <div align="center">
   State Key Lab of CAD&CG, Zhejiang University
 </div>
-
-<div>
-  State Key Lab of CAD&CG, Zhejiang University
-</div>
   
 ## 🌐 Overview
 
