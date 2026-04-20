@@ -2,7 +2,9 @@
 
 <p align="center">
   <a href="https://arxiv.org/abs/2604.15871"><img src="https://img.shields.io/badge/Paper-arXiv%3A2604.15871-b31b1b?logo=arxiv&logoColor=red"></a>
-  <a href="https://huggingface.co/datasets/wesar1/UniEditBench"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue"></a>
+  <a href="https://huggingface.co/datasets/wesar1/UniEditBench">
+  <img src="https://img.shields.io/badge/dynamic/json?label=%F0%9F%A4%97%20UniEditBench&query=downloads&url=https://huggingface.co/api/datasets/wesar1/UniEditBench&color=blue">
+</a>
   <a href="https://huggingface.co/wesar1/UniEditBench_models"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue"></a>
 
 <div align="center">
@@ -148,4 +150,13 @@ Table 1 and Table 2 present the evaluation results for image editing models and 
 If you find UniEditBench helpful, please cite:
 
 ```bibtex
+@misc{jiang2026unieditbenchunifiedcosteffectivebenchmark,
+      title={UniEditBench: A Unified and Cost-Effective Benchmark for Image and Video Editing via Distilled MLLMs}, 
+      author={Lifan Jiang and Tianrun Wu and Yuhang Pei and Chenyang Wang and Boxi Wu and Deng Cai},
+      year={2026},
+      eprint={2604.15871},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2604.15871}, 
+}
 ```
