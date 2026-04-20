@@ -2,9 +2,7 @@
 
 <p align="center">
   <a href="https://arxiv.org/abs/2604.15871"><img src="https://img.shields.io/badge/Paper-arXiv%3A2604.15871-b31b1b?logo=arxiv&logoColor=red"></a>
-  <a href="https://huggingface.co/datasets/wesar1/UniEditBench">
-  <img src="https://img.shields.io/badge/dynamic/json?label=%F0%9F%A4%97%20UniEditBench&query=downloads&url=https://huggingface.co/api/datasets/wesar1/UniEditBench&color=blue">
-</a>
+  <a href="https://huggingface.co/datasets/wesar1/UniEditBench"> <img src="https://img.shields.io/badge/dynamic/json?label=%F0%9F%A4%97%20UniEditBench&query=downloads&url=https://huggingface.co/api/datasets/wesar1/UniEditBench&color=blue"></a>
   <a href="https://huggingface.co/wesar1/UniEditBench_models"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue"></a>
 
 <div align="center">
