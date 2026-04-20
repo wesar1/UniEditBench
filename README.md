@@ -5,7 +5,7 @@
   <a href="https://huggingface.co/datasets/wesar1/UniEditBench"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue"></a>
   <a href="https://huggingface.co/wesar1/UniEditBench_models"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue"></a>
 
-<div>
+<div align="center">
   <strong>Lifan Jiang</strong> &nbsp;
   <strong>Tianrun Wu</strong> &nbsp;
   <strong>Yuhang Pei</strong> &nbsp;
@@ -13,6 +13,10 @@
   <strong>Chenyang Wang</strong> &nbsp;
   <strong>Boxi Wu</strong> &nbsp;
   <strong>Deng Cai</strong>
+</div>
+
+<div align="center">
+  State Key Lab of CAD&CG, Zhejiang University
 </div>
 
 <div>
